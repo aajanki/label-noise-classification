@@ -2,7 +2,9 @@
 
 A PyStan implementation of a robust logistic regression estimation.
 
-## Setup
+See [the notebook](Label%20noise%20robust%20classification.ipynb).
+
+## Dev environment setup
 
 Install [Stan dependencies](https://pystan.readthedocs.io/en/latest/getting_started.html).
 
@@ -10,8 +12,6 @@ Install [Stan dependencies](https://pystan.readthedocs.io/en/latest/getting_star
 pipenv install
 pipenv run jupyter notebook
 ```
-
-Open [the notebook](Label%20noise%20robust%20classification.ipynb).
 
 ## References
 
