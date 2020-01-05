@@ -11,7 +11,7 @@ pipenv install
 pipenv run jupyter notebook
 ```
 
-Open [the notebook](Label noise robust classification.ipynb).
+Open [the notebook](Label%20noise%20robust%20classification.ipynb).
 
 ## References
 
